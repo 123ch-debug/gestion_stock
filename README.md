@@ -19,5 +19,3 @@ Créer une application console en Java permettant de gérer :
 
 ## 📸 Aperçu
 Menu principal :
-
-Menu principal :
