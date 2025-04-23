@@ -19,4 +19,4 @@ Créer une application console en Java permettant de gérer :
 
 ## 📸 Aperçu
 Menu principal :
-![Capture du menu](images/poo-menu.png)
+![Exécution du projet](images/image execution.png)
