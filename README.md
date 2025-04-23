@@ -20,7 +20,7 @@ Créer une application console en Java permettant de gérer :
 
 
 ## 🧪 Tester l'application
-![Exécution du projet](images/image execution.png)
+![Exécution du projet](images/imageexecution.JPG)
 
 ### 🔧 Prérequis
 - Java JDK installé (version 8 ou supérieure)
