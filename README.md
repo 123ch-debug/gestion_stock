@@ -39,8 +39,15 @@ Gestion des fournisseurs
 
 ### 💻 Lancer depuis un terminal (ligne de commande)
 
-1. Ouvrir un terminal dans le dossier du projet
-2. Compiler tous les fichiers :
+1. Vérifie l’arborescence
+2. Ouvre ton terminal (PowerShell ou CMD)
+Puis place-toi dans le dossier racine du projet (là où il y a Gestion_Stock1/).
+chez moi : cd "C:\Users\PC\Downloads\POO\Projet POO Feupi Christelle"
+3. Compile tous les fichiers Java: Crée d'abord un dossier bin pour stocker les .class s'il 
+n'existe pas déjà
+"mkdir bin"
+Ensuite, compile tous les fichiers .java :
+
 ```bash
 javac -d bin Gestion_Stock1/src/gestion_stock1/*.java
 
