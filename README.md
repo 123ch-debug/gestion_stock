@@ -47,7 +47,7 @@ javac -d bin Gestion_Stock1/src/gestion_stock1/*.java
 Exécuter l'application
 
 java -cp bin gestion_stock1.Gestion_Stock1
-
+```
 ## 🛒 Processus d'une commande client
 
 Ce processus montre comment un client peut passer une commande, générer une facture et observer l'impact sur le stock.
