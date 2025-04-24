@@ -91,4 +91,4 @@ Cela déclenche l'enregistrement des données, ce qui permet de :
 ![Menu principal - Option Sauvegarde](images/etapefinale.JPG)
 
 ### de base j'avais une quantite 100 pour cet article la quantite en stock a bien été modifié après la commande passée  :
-![Ajout commande - Étape 2](images/etapefinale2.JPG)
+![quantité en stock mis à jour - Étape 2](images/etapefinale2.JPG)
